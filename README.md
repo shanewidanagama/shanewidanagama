@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanewidanagama !
 - 👀 I’m interested in JavaScript and collaborative development.
-- 🌱 I’m currently learning how to use DevOps CI/CD pipelines, Nodejs and Expressjs.
+- 🌱 I’m currently learning to use DevOps CI/CD pipelines, Nodejs and Expressjs.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
