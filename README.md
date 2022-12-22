@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shane!</h1>
-<h3 align="center">A passionate software engineer from Canada</h3>
+<h3 align="center">A software engineer from Canada</h3>
 
 - 🌱 I’m currently learning **DevOps, Node, and React**
 
