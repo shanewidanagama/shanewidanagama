@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shanewidanagama@gmail.com**
 
-- ⚡ Fun fact **My sun, moon, and rising Zodiac signs are all water signs, which means I have psychic powers 🔮**
+- ⚡ Fun fact **I can name all the pokemon from generations 1-4**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
