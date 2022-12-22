@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shanewidanagama@gmail.com**
 
-- ⚡ Fun fact **My sun, moon, and rising Zodiac signs are all water signs**
+- ⚡ Fun fact **My sun, moon, and rising Zodiac signs are all water signs, which means I have psychic powers 🔮🔮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
