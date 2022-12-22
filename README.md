@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **shanewidanagama@gmail.com**
 
-- ⚡ Fun fact **My sun, moon, and rising Zodiac signs are all water signs, which means I have psychic powers 🔮🔮**
+- ⚡ Fun fact **My sun, moon, and rising Zodiac signs are all water signs, which means I have psychic powers 🔮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shane widanagama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shane widanagama" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shane-widanagama-674b73188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shane widanagama" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
