@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shane!</h1>
-<h3 align="center">A software engineer from Canada</h3>
+<h3 align="center">A software engineer from Canada that's passionate about full stack development</h3>
 
-- 🌱 I’m currently learning **DevOps, Node, and React**
+- 🌱 I’m currently learning **Node, DevOps, and React**
 
 - 💬 Ask me about **Developer Experience, Node**
 
 - 📫 How to reach me **shanewidanagama@gmail.com**
 
-- ⚡ Fun fact **I can name all the pokemon from generations 1-4**
+- ⚡ Fun fact **I can name every Pokemon from generations 1 through 4!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
