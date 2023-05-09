@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shane!</h1>
-<h3 align="center">A software engineer that's passionate about full stack development</h3>
+<h1 align="center">Hey 👋, I'm Shane!</h1>
+<h3 align="center">Software Engineer. Creative. Anime Fanatic.</h3>
 
-- 🌱 I’m currently learning **Node, DevOps, and React**
-
-- 💬 Ask me about **Developer Experience, Node**
+- 💬 Ask me about **JavaScript, React, Node, and Anime**
 
 - 📫 How to reach me **shanewidanagama@gmail.com**
 
