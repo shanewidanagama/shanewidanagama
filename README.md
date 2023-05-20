@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **JavaScript, React, Node, and Anime**
 
-- 👨‍💻 All of my projects are available at **https://shanewidanagama.github.io/Portfolio/**
-
 - ⚡ Fun fact **I can name every Pokemon from generations 1 through 4!**
+
+- 👨‍💻 All of my projects are available at **https://shanewidanagama.github.io/Portfolio/**
 
 - 📫 How to reach me **shanewidanagama@gmail.com**
 
