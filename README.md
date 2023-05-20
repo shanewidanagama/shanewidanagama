@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋, I'm Shane!</h1>
 <h3 align="center">Software Engineer. Creative. Anime Fanatic.</h3>
 
+- 🌱 I’m currently learning **prompt engineering**
 
 - 💬 Ask me about **JavaScript, React, Node, and Anime**
 
