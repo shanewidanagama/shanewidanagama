@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I can name every Pokemon from generations 1 through 4!**
 
-- 👨‍💻 My projects are available at **https://shanewidanagama.github.io/Portfolio/**
+- 👨‍💻 My projects are viewable **[here](https://shanewidanagama.github.io/Portfolio/)**
 
 - 📫 How to reach me **shanewidanagama@gmail.com**
 
