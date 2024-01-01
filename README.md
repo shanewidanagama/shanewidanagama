@@ -1,10 +1,7 @@
 <h1 align="center">Hey 👋, I'm Shane!</h1>
 <h3 align="center">Software Engineer. Creative. Anime Fanatic.</h3>
 
-- 🔭 I’m currently working on **[ecommerce-starter](https://github.com/shanewidanagama/ecommerce-starter)**
-- 🌱 I’m currently learning **prompt engineering**
-
-- 💬 Ask me about **JavaScript, React, Node, and Anime**
+- 💬 Ask me about **React, Node, and Anime**
 
 - ⚡ Fun fact **I can name every Pokemon from generations 1 through 4!**
 
