@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Shane!</h1>
 <h3 align="center">Software Engineer. Creative. Anime Fanatic.</h3>
 
-- 💬 Ask me about **React, Node, and Anime**
+- 💬 Ask me about **React, Node, or anime**
 
 - ⚡ Fun fact **I can name every Pokemon from generations 1 through 4!**
 
