@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Shane!</h1>
-<h3 align="center">Software Engineer. Anime Fanatic.</h3>
+<h3 align="center">Software Engineer.</h3>
 
 - 💬 Ask me about **React, Node, or anime**
 
