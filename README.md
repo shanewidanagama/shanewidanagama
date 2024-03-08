@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **React, Node, or anime**
 
-- ⚡ Fun fact **I can name every Pokemon from generations 1 through 4**
+- ⚡ Fun fact **I can name every Pokemon from generation 1 through 4**
 
 - 👨‍💻 My projects are viewable **[here](https://shanewidanagama.github.io/Portfolio/)**
 
