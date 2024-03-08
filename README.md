@@ -2,9 +2,7 @@
 <h3 align="center">Software Engineer.</h3>
 
 - 💬 Ask me about **React, Node, or anime**
-
-- ⚡ Fun fact **I can name every Pokemon from generation 1 through 4**
-
+- 
 - 👨‍💻 See my work **[here](https://shanewidanagama.github.io/Portfolio/)**
 
 - 📫 How to reach me **shanewidanagama@gmail.com**
