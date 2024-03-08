@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer.</h3>
 
 - 💬 Ask me about **React, Node, or anime**
-- 
+  
 - 👨‍💻 See my work **[here](https://shanewidanagama.github.io/Portfolio/)**
 
 - 📫 How to reach me **shanewidanagama@gmail.com**
