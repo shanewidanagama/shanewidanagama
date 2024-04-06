@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Shane!</h1>
 <h3 align="center">Software Engineer.</h3>
 
-- 💬 Talk to me about **web development, food, and early 2000s anime**
+- 💬 Talk to me about **web development, food, and 2000s anime**
   
 - 👨‍💻 See my work **[here](https://shanewidanagama.github.io/Portfolio/)**
 
