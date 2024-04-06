@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Shane!</h1>
 <h3 align="center">Software Engineer.</h3>
 
-- 💬 Ask me about **React, Node, or anime**
+- 💬 Ask me about **JavaScript, React or Anime**
   
 - 👨‍💻 See my work **[here](https://shanewidanagama.github.io/Portfolio/)**
 
