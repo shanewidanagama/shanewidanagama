@@ -1,6 +1,4 @@
 <h1 align="center">Hey 👋, I'm Shane!</h1>
-
-- 💬 Talk to me about **web development, food, and 2000s anime**
   
 - 👨‍💻 See my work **[here](https://shanewidanagama.github.io/Portfolio/)**
 
