@@ -1,6 +1,4 @@
 <h1 align="center">Hey 👋, I'm Shane!</h1>
-  
-- 👨‍💻 See my work **[here](https://shanewidanagama.github.io/Portfolio/)**
 
 - 📫 Reach me at **shanewidanagama@gmail.com**
 
